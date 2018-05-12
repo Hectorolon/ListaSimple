@@ -1,0 +1,10 @@
+c:\users\hrolo\source\repos\ListaSimple\ListaSimple\obj\Debug\ListaSimple.csprojResolveAssemblyReference.cache
+c:\users\hrolo\source\repos\ListaSimple\ListaSimple\obj\Debug\ListaSimple.Form1.resources
+c:\users\hrolo\source\repos\ListaSimple\ListaSimple\obj\Debug\ListaSimple.Properties.Resources.resources
+c:\users\hrolo\source\repos\ListaSimple\ListaSimple\obj\Debug\ListaSimple.csproj.GenerateResource.Cache
+c:\users\hrolo\source\repos\ListaSimple\ListaSimple\obj\Debug\ListaSimple.csproj.CoreCompileInputs.cache
+c:\users\hrolo\source\repos\ListaSimple\ListaSimple\bin\Debug\ListaSimple.exe.config
+c:\users\hrolo\source\repos\ListaSimple\ListaSimple\bin\Debug\ListaSimple.exe
+c:\users\hrolo\source\repos\ListaSimple\ListaSimple\bin\Debug\ListaSimple.pdb
+c:\users\hrolo\source\repos\ListaSimple\ListaSimple\obj\Debug\ListaSimple.exe
+c:\users\hrolo\source\repos\ListaSimple\ListaSimple\obj\Debug\ListaSimple.pdb
